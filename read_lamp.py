@@ -31,4 +31,4 @@ while True:
         write_status(status)
         last_status = status
         print(status)
-    sleep(0.1)
+    sleep(1.8)
